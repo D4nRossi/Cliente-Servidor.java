@@ -1,0 +1,1 @@
+Projeto em Java, cliente servidor, usando socket e threads, tudo em rede local
